@@ -1,13 +1,19 @@
 <!-- 1. GitHub usernameを変更 -->
+<!-- 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+   <img src="https://komarev.com/ghpvc/?username=username" />
 </div>
-
+-->
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## 🍎 About Me
-
-- Infrastrcture Engineer (7.5 yrs) → Technical Support Engineer (Now)
+- Infrastrcture Engineer and Asisstant Project Manager (2017/04 ~ 2024/09)
+  -- Customers in Telecom Industry
+  -- Traditional Japanese System Integrator
+  
+- Technical Support Engineer(2024/10 ~ now)
+  -- Storage and High Availability Services in Windows Server, Windows Client
+  -- Global Big Tech 
 <br>
 
 
