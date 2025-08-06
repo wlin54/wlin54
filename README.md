@@ -7,15 +7,14 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## 🍎 About Me
-- Infrastrcture Engineer and Asisstant Project Manager (2017/04 ~ 2024/09)
-  -- Customers in Telecom Industry
-  -- Traditional Japanese System Integrator
-  
-- Technical Support Engineer(2024/10 ~ now)
-  -- Storage and High Availability Services in Windows Server, Windows Client
-  -- Global Big Tech 
+- Infrastrcture Engineer and Asisstant Project Manager (2017/04 ~ 2024/09) <br>
+  -- Customers in Telecom Industry <br>
+  -- Traditional Japanese System Integrator <br>
+- Technical Support Engineer (2024/10 ~ now) <br>
+  -- Storage and High Availability Services in Windows Server, Windows Client <br>
+  -- Global Big Tech  <br>
 <br>
-
+<br>
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
@@ -23,7 +22,7 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,azure,docker,terraform" />
 <br>
-
+<br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
