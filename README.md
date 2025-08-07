@@ -12,6 +12,7 @@
   -- Traditional Japanese System Integrator <br>
 - Technical Support Engineer (2024/10 ~ now) <br>
   -- Storage and High Availability Services in Windows Server, Windows Client <br>
+  -- Customer in All Industries in Japan
   -- Global Big Tech  <br>
 <br>
 <br>
